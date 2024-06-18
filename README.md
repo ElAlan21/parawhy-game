@@ -19,7 +19,7 @@ acontecimientos le da fin a la historia del juego.
 
 ## Mapa
 
-![mapa_del_juego](MapaJuegoCLI.jpg);
+![mapa_del_juego](MapaJuegoCLI.jpg)
 
 ## ¿Cómo jugar?
 
